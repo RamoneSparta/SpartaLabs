@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\bin\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\obj\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\obj\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\obj\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\obj\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab08_List_Dictionary_Task\obj\Debug\netcoreapp3.0\Lab08_List_Dictionary_Task.csprojAssemblyReference.cache

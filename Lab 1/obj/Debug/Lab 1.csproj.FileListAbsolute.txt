@@ -1,0 +1,6 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab 1\obj\Debug\Lab 1.pdb

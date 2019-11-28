@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\bin\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\obj\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\obj\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\obj\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\obj\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab3_OOP_EVERY_FEATURE_COMBINED\obj\Debug\netcoreapp3.0\Lab03_OOP_EVERY_FEATURE_COMBINED.pdb

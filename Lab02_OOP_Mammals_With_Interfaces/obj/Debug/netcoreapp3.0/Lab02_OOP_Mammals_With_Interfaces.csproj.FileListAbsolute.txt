@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\bin\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\obj\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\obj\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\obj\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\obj\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab02_OOP_Mammals_With_Interfaces\obj\Debug\netcoreapp3.0\Lab02_OOP_Mammals_With_Interfaces.pdb
