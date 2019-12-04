@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  
+  <!-- The Item group can be copied to other projects, 
+       if you just copy and paste it into another .csproj 
+       file it'll automattically install it-->
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="2.1.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

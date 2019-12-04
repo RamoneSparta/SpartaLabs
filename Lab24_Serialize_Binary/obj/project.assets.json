@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "SoapFormatter/1.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      },
+      "Lab22_Serialization/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "SoapFormatter": "1.0.11"
+        },
+        "compile": {
+          "bin/placeholder/Lab22_Serialization.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab22_Serialization.dll": {}
+        }
+      },
+      "Lab23_Serialize_JSON/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/Lab23_Serialize_JSON.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab23_Serialize_JSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "SoapFormatter/1.0.11": {
+      "sha512": "zE2HkP26lkOcXvEVasjcQT7f4lZWPF+ThBLRLLWQaBz5Kabyr0rQUyBM0BSw7g6JddEqSK/BzhpVitJ0vAu4XA==",
+      "type": "package",
+      "path": "soapformatter/1.0.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.0.11.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    },
+    "Lab22_Serialization/1.0.0": {
+      "type": "project",
+      "path": "../Lab22_Serialization/Lab22_Serialization.csproj",
+      "msbuildProject": "../Lab22_Serialization/Lab22_Serialization.csproj"
+    },
+    "Lab23_Serialize_JSON/1.0.0": {
+      "type": "project",
+      "path": "../Lab23_Serialize_JSON/Lab23_Serialize_JSON.csproj",
+      "msbuildProject": "../Lab23_Serialize_JSON/Lab23_Serialize_JSON.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Lab22_Serialization >= 1.0.0",
+      "Lab23_Serialize_JSON >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ramone Nelson\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab24_Serialize_Binary\\Lab24_Serialize_Binary.csproj",
+      "projectName": "Lab24_Serialize_Binary",
+      "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab24_Serialize_Binary\\Lab24_Serialize_Binary.csproj",
+      "packagesPath": "C:\\Users\\Ramone Nelson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab24_Serialize_Binary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "\\\\sg-fp01\\Folder Redirections\\Ramone Nelson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab22_Serialization\\Lab22_Serialization.csproj": {
+              "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab22_Serialization\\Lab22_Serialization.csproj"
+            },
+            "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab23_Serialize_JSON\\Lab23_Serialize_JSON.csproj": {
+              "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab23_Serialize_JSON\\Lab23_Serialize_JSON.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Lab23_Serialize_JSON.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.csproj.CopyComplete
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab23_Serialize_JSON\obj\Debug\netcoreapp3.0\Lab23_Serialize_JSON.pdb

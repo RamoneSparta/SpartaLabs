@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\obj\Debug\netcoreapp3.0\Lab15_Tasks.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\obj\Debug\netcoreapp3.0\Lab15_Tasks.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\bin\Debug\netcoreapp3.0\Lab15_Tasks.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\obj\Debug\netcoreapp3.0\Lab15_Tasks.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\obj\Debug\netcoreapp3.0\Lab15_Tasks.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab15_Tasks\obj\Debug\netcoreapp3.0\Lab15_Tasks.csprojAssemblyReference.cache

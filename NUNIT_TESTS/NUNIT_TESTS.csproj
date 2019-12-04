@@ -15,6 +15,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Lab08_List_Dictionary_Task\Lab08_List_Dictionary_Task.csproj" />
     <ProjectReference Include="..\Lab09_Rabbit_Test\Lab09_Rabbit_Test.csproj" />
+    <ProjectReference Include="..\Lab14_LINQ\Lab14_LINQ.csproj" />
+    <ProjectReference Include="..\Lab17_Northwind_Tests\Lab17_Northwind_Tests.csproj" />
+    <ProjectReference Include="..\Lab20_Northwind_Products\Lab20_Northwind_Products.csproj" />
   </ItemGroup>
 
 </Project>
