@@ -4,6 +4,7 @@ using Lab08_List_Dictionary_Task;
 using Lab09_Rabbit_Test;
 using Lab14_LINQ;
 using Lab20_Northwind_Products;
+using Lab28_Fibonacci;
 
 namespace NUNIT_TESTS
 {
@@ -201,6 +202,23 @@ namespace NUNIT_TESTS
             Assert.AreEqual(expectedProducts, actualProducts);
         }
         #endregion
+
+
+        [TestCase(0, 0)]
+        [TestCase(5, 3)]
+        [TestCase(9, 21)]
+        [TestCase(10, 34)]
+        [TestCase(11, 55)]
+        [TestCase(20, 4181)]
+        public void TestFibonacci(int sequenceNumber, int expectedNumber)
+        {
+            Fibonacci fibonacci = new Fibonacci();
+
+            var fibSequenceResult = fibonacci.ReturnFibonacciNthItemInSequence(sequenceNumber);
+
+            Assert.AreEqual(expectedNumber, fibSequenceResult);
+
+        }
 
 
 

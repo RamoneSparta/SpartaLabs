@@ -1691,6 +1691,16 @@
         "runtime": {
           "bin/placeholder/Lab20_Northwind_Products.dll": {}
         }
+      },
+      "Lab28_Fibonacci/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Lab28_Fibonacci.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab28_Fibonacci.dll": {}
+        }
       }
     }
   },
@@ -5888,6 +5898,11 @@
       "type": "project",
       "path": "../Lab20_Northwind_Products/Lab20_Northwind_Products.csproj",
       "msbuildProject": "../Lab20_Northwind_Products/Lab20_Northwind_Products.csproj"
+    },
+    "Lab28_Fibonacci/1.0.0": {
+      "type": "project",
+      "path": "../Lab_28_Fibonacci/Lab28_Fibonacci.csproj",
+      "msbuildProject": "../Lab_28_Fibonacci/Lab28_Fibonacci.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5897,6 +5912,7 @@
       "Lab14_LINQ >= 1.0.0",
       "Lab17_Northwind_Tests >= 1.0.0",
       "Lab20_Northwind_Products >= 1.0.0",
+      "Lab28_Fibonacci >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit >= 3.12.0",
       "NUnit.ConsoleRunner >= 3.10.0",
@@ -5950,6 +5966,9 @@
             },
             "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab20_Northwind_Products\\Lab20_Northwind_Products.csproj": {
               "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab20_Northwind_Products\\Lab20_Northwind_Products.csproj"
+            },
+            "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab_28_Fibonacci\\Lab28_Fibonacci.csproj": {
+              "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab_28_Fibonacci\\Lab28_Fibonacci.csproj"
             }
           }
         }

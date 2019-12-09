@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\bin\Debug\netcoreapp3.0\Simpson_HW.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\obj\Debug\netcoreapp3.0\Simpson_HW.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\obj\Debug\netcoreapp3.0\Simpson_HW.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\obj\Debug\netcoreapp3.0\Simpson_HW.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\obj\Debug\netcoreapp3.0\Simpson_HW.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Simpson_HW\obj\Debug\netcoreapp3.0\Simpson_HW.csprojAssemblyReference.cache

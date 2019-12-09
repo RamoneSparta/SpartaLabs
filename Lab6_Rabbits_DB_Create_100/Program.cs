@@ -21,15 +21,14 @@ namespace Lab6_Rabbits_DB_Create_100
         static void Main(string[] args)
         {
 
-
             using (var db = new RabbitDBContext())
             {
-                AddRabbits();
-                listRabbits();
+                //AddRabbits();
+                //listRabbits();
                 //PrintRabbits(db);
             }
 
-            
+
         }
 
         #region My Version CRUD
@@ -132,6 +131,7 @@ namespace Lab6_Rabbits_DB_Create_100
 
         #endregion
 
+        #region rabbits: 
         static void AddRabbits()
         {
             using (var db = new RabbitDBContext())
@@ -198,7 +198,109 @@ namespace Lab6_Rabbits_DB_Create_100
                 db.Rabbits.Update(r);
             }
         }
+        #endregion
 
+
+        #region Redo of methods
+
+        #region TestRedoCRUD
+        static void TestRedoCRUD()
+        {
+
+        }
+        #endregion
+
+        #region AddRabbits 
+        public void AddRabbitsToDB()
+        {
+            var random = new Random();
+            // Just adding 50 Rabbits to the db
+            for (int i = 0; i < 50; i++)
+            {
+                rabbits.Add(new Rabbit { RabbitName = rabbitNames[random.Next(1,13)] , RabbitAge = random.Next(1, 11) });
+            }
+
+            using (var db = new RabbitDBContext()) // The reason we use the db connection this way is because once the using is finished the connection to the DB also stops
+            {
+                foreach (Rabbit r in rabbits)
+                {
+                    db.Rabbits.Add(r);
+                    // Dont forget to db.SaveChanges(); nothing will be saved without it
+                    db.SaveChanges();
+                }
+                
+            }
+        }
+
+        #endregion
+
+        #region ReadAllRabbits
+        static void ReadAllRabbits()
+        {
+            rabbits = new List<Rabbit>();
+            using (var db = new RabbitDBContext())
+            {
+                rabbits = db.Rabbits.ToList();
+                foreach (Rabbit r in rabbits)
+                {
+                    Console.WriteLine($" ID: {r.RabbitID}  Name: {r.RabbitName}  Age:  {r.RabbitAge}");
+                }
+
+                // Or Lamda
+                rabbits.ForEach
+                    (
+                        r => // Like The ForEach above but as a oneliner ( I've Just spaced it out )
+                            { 
+                                Console.WriteLine($" ID: {r.RabbitID}  Name: {r.RabbitName}  Age:  {r.RabbitAge}"); 
+                            }
+                    );
+            }
+        }
+
+        #endregion
+
+        #region UpdateRabbits
+        static void UpdateRabbits(int id,string name, int age)
+        {
+            using (var db = new RabbitDBContext())
+            {
+                rabbits = db.Rabbits.ToList();
+                foreach (Rabbit r in rabbits)
+                {
+                    if (r.RabbitID == id)
+                    {
+                        r.RabbitName = name;
+                        r.RabbitAge = age;
+                    }
+                }
+                
+                db.SaveChanges();
+            }
+        }
+
+        #endregion
+
+        #region DeleteRabbits
+        static void DeleteRabbits(int id)
+        {
+            using (var db = new RabbitDBContext())
+            {
+                rabbits = db.Rabbits.ToList();
+                foreach (Rabbit r in rabbits)
+                {
+                    if (r.RabbitID == id)
+                    {
+                        rabbits.Remove(r);
+                    }
+                }
+
+                db.SaveChanges();
+            }
+        }
+
+        #endregion
+
+        #endregion
 
     }
 

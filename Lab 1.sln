@@ -39,21 +39,52 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab16_Tasks_Continued", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab17_Northwind_Tests", "Lab17_Northwind_Tests\Lab17_Northwind_Tests.csproj", "{918D2BD8-4A8D-4EAA-B5F1-336BDCB2F966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab18_Streaming", "Lab18_Streaming\Lab18_Streaming.csproj", "{76728398-324B-480B-BFC2-D1FFB4F6EC92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab18_Streaming", "Lab18_Streaming\Lab18_Streaming.csproj", "{76728398-324B-480B-BFC2-D1FFB4F6EC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab19_Http", "Lab19_Http\Lab19_Http.csproj", "{CC8A4ECC-0E09-4FE4-B7D9-0718F2D37CEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab19_Http", "Lab19_Http\Lab19_Http.csproj", "{CC8A4ECC-0E09-4FE4-B7D9-0718F2D37CEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab20_Northwind_Products", "Lab20_Northwind_Products\Lab20_Northwind_Products.csproj", "{17142F81-B74D-42F2-B9BA-D03D272C862F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab20_Northwind_Products", "Lab20_Northwind_Products\Lab20_Northwind_Products.csproj", "{17142F81-B74D-42F2-B9BA-D03D272C862F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab21_Async_Await", "Lab21_Async_Await\Lab21_Async_Await.csproj", "{C55D354B-29F1-4543-890E-9C8139036ABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab21_Async_Await", "Lab21_Async_Await\Lab21_Async_Await.csproj", "{C55D354B-29F1-4543-890E-9C8139036ABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab22_Serialization", "Lab22_Serialization\Lab22_Serialization.csproj", "{BCE9F83C-82E2-4E5E-9760-4CB39883595C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab22_Serialization", "Lab22_Serialization\Lab22_Serialization.csproj", "{BCE9F83C-82E2-4E5E-9760-4CB39883595C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab23_Serialize_JSON", "Lab23_Serialize_JSON\Lab23_Serialize_JSON.csproj", "{46F4D041-D654-48C8-BBFD-44D84FE26A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab23_Serialize_JSON", "Lab23_Serialize_JSON\Lab23_Serialize_JSON.csproj", "{46F4D041-D654-48C8-BBFD-44D84FE26A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab24_Serialize_Binary", "Lab24_Serialize_Binary\Lab24_Serialize_Binary.csproj", "{E1190C82-340C-423B-8AC9-2813B8910EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab24_Serialize_Binary", "Lab24_Serialize_Binary\Lab24_Serialize_Binary.csproj", "{E1190C82-340C-423B-8AC9-2813B8910EB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_API_Northwind", "Demo_API_Northwind\Demo_API_Northwind.csproj", "{2013E71D-AB6A-4CB4-B38D-DFCD04A6E388}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HTML", "..\..\..\Week7\HTML\", "{66624DAC-ABF5-4498-801F-3E8F85B90894}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54652"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Week7\HTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54652\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54652"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Week7\HTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54652\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54652"
+		SlnRelativePath = "..\..\..\Week7\HTML\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab25_First_Website", "Lab25_First_Website\Lab25_First_Website.csproj", "{7AC3E3E2-CD0D-4A3A-A0AE-6B7D4DB5E60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab26_MVC", "Lab26_MVC\Lab26_MVC.csproj", "{B9C01698-DE5B-46B0-B24A-D36C0267D8EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab27_MVC_CORE", "Lab_27_MVC_CORE\Lab27_MVC_CORE.csproj", "{9C47D928-5CA4-41A3-BFD8-78D2622FE273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab28_Fibonacci", "Lab_28_Fibonacci\Lab28_Fibonacci.csproj", "{C21C3987-28E1-4AA5-9F64-46BD4E76CE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simpson_HW", "Simpson_HW\Simpson_HW.csproj", "{297F0F07-D4B8-4480-B8EA-4CACF39730F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +196,30 @@ Global
 		{2013E71D-AB6A-4CB4-B38D-DFCD04A6E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2013E71D-AB6A-4CB4-B38D-DFCD04A6E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2013E71D-AB6A-4CB4-B38D-DFCD04A6E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66624DAC-ABF5-4498-801F-3E8F85B90894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66624DAC-ABF5-4498-801F-3E8F85B90894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66624DAC-ABF5-4498-801F-3E8F85B90894}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{66624DAC-ABF5-4498-801F-3E8F85B90894}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7AC3E3E2-CD0D-4A3A-A0AE-6B7D4DB5E60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC3E3E2-CD0D-4A3A-A0AE-6B7D4DB5E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC3E3E2-CD0D-4A3A-A0AE-6B7D4DB5E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC3E3E2-CD0D-4A3A-A0AE-6B7D4DB5E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C01698-DE5B-46B0-B24A-D36C0267D8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C01698-DE5B-46B0-B24A-D36C0267D8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C01698-DE5B-46B0-B24A-D36C0267D8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C01698-DE5B-46B0-B24A-D36C0267D8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C47D928-5CA4-41A3-BFD8-78D2622FE273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C47D928-5CA4-41A3-BFD8-78D2622FE273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C47D928-5CA4-41A3-BFD8-78D2622FE273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C47D928-5CA4-41A3-BFD8-78D2622FE273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21C3987-28E1-4AA5-9F64-46BD4E76CE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21C3987-28E1-4AA5-9F64-46BD4E76CE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21C3987-28E1-4AA5-9F64-46BD4E76CE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21C3987-28E1-4AA5-9F64-46BD4E76CE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297F0F07-D4B8-4480-B8EA-4CACF39730F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297F0F07-D4B8-4480-B8EA-4CACF39730F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297F0F07-D4B8-4480-B8EA-4CACF39730F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297F0F07-D4B8-4480-B8EA-4CACF39730F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

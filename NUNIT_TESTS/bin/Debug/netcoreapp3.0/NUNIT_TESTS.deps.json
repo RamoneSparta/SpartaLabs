@@ -13,6 +13,7 @@
           "Lab14_LINQ": "1.0.0",
           "Lab17_Northwind_Tests": "1.0.0",
           "Lab20_Northwind_Products": "1.0.0",
+          "Lab28_Fibonacci": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.4.0",
           "NUnit": "3.12.0",
           "NUnit.ConsoleRunner": "3.10.0",
@@ -1199,6 +1200,11 @@
           "Lab20_Northwind_Products.dll": {}
         }
       },
+      "Lab28_Fibonacci/1.0.0": {
+        "runtime": {
+          "Lab28_Fibonacci.dll": {}
+        }
+      },
       "EntityFramework.Reference/6.0.0.0": {
         "runtime": {
           "EntityFramework.dll": {
@@ -1915,6 +1921,11 @@
       "sha512": ""
     },
     "Lab20_Northwind_Products/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab28_Fibonacci/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
