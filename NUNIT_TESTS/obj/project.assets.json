@@ -1701,6 +1701,16 @@
         "runtime": {
           "bin/placeholder/Lab28_Fibonacci.dll": {}
         }
+      },
+      "Simpson_HW/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Simpson_HW.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Simpson_HW.dll": {}
+        }
       }
     }
   },
@@ -5903,6 +5913,11 @@
       "type": "project",
       "path": "../Lab_28_Fibonacci/Lab28_Fibonacci.csproj",
       "msbuildProject": "../Lab_28_Fibonacci/Lab28_Fibonacci.csproj"
+    },
+    "Simpson_HW/1.0.0": {
+      "type": "project",
+      "path": "../Simpson_HW/Simpson_HW.csproj",
+      "msbuildProject": "../Simpson_HW/Simpson_HW.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5916,7 +5931,8 @@
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit >= 3.12.0",
       "NUnit.ConsoleRunner >= 3.10.0",
-      "NUnit3TestAdapter >= 3.15.1"
+      "NUnit3TestAdapter >= 3.15.1",
+      "Simpson_HW >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5969,6 +5985,9 @@
             },
             "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab_28_Fibonacci\\Lab28_Fibonacci.csproj": {
               "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Lab_28_Fibonacci\\Lab28_Fibonacci.csproj"
+            },
+            "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Simpson_HW\\Simpson_HW.csproj": {
+              "projectPath": "C:\\Users\\Ramone Nelson\\Engineering45\\Week4\\Day4\\Lab 1\\Simpson_HW\\Simpson_HW.csproj"
             }
           }
         }

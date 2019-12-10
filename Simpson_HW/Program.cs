@@ -9,8 +9,10 @@ namespace Simpson_HW
     {
         static void Main(string[] args)
         {
+            var list = new List<object>() { 1, "a", "b", 0, 15 };
             Simpson simpson = new Simpson();
-            Console.WriteLine(simpson.areaApprox(6,0,6));
+            Console.WriteLine(simpson.areaApprox(6, 0, 12));
+            Console.WriteLine(Simpson.GetIntegersFromList(list));
         }
     }
 
@@ -26,7 +28,7 @@ namespace Simpson_HW
  *  {n = 6, min = 0, max = 6,difference = (max-min/n)}
  *  Area = 60 (if n is 6)
  */
-    class Simpson
+    public class Simpson
     {
         public double areaApprox (int n, int min, int max)
         {
@@ -62,6 +64,16 @@ namespace Simpson_HW
 
             double area = (dx/3) * (y[min] + y[max-1] + (oddIndex*4) + (evenIndex*2));
             return Math.Round(area);
+        }
+
+        public static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
+        {
+            List<int> newListOfItems = new List<int>();
+            foreach (int i in listOfItems)
+            {
+                newListOfItems.Add(i);
+            }
+            return newListOfItems;
         }
     }
 }

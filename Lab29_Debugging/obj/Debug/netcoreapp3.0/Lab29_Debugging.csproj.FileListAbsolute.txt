@@ -1,0 +1,10 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\bin\Debug\netcoreapp3.0\Lab29_Debugging.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\obj\Debug\netcoreapp3.0\Lab29_Debugging.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\obj\Debug\netcoreapp3.0\Lab29_Debugging.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\obj\Debug\netcoreapp3.0\Lab29_Debugging.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab29_Debugging\obj\Debug\netcoreapp3.0\Lab29_Debugging.pdb

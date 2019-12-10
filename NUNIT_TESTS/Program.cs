@@ -5,6 +5,7 @@ using Lab09_Rabbit_Test;
 using Lab14_LINQ;
 using Lab20_Northwind_Products;
 using Lab28_Fibonacci;
+using Simpson_HW;
 
 namespace NUNIT_TESTS
 {
@@ -220,7 +221,19 @@ namespace NUNIT_TESTS
 
         }
 
+        [TestCase(6,0,6,72)]
+        [TestCase(3, 0, 6, 145)]
+        [TestCase(12, 0, 12, 576)]
+        [TestCase(6, 0, 12, 1153)]
+        public void TestSimposon(int n, int min, int max, int actual)
+        {
+            Simpson simpson = new Simpson();
 
+            double expected = simpson.areaApprox(n,min,max);
+
+            Assert.AreEqual(expected, actual);
+        }
 
     }
 }
+

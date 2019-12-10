@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab29_Debugging/1.0.0": {
+        "runtime": {
+          "Lab29_Debugging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab29_Debugging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
