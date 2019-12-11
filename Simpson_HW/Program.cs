@@ -9,10 +9,8 @@ namespace Simpson_HW
     {
         static void Main(string[] args)
         {
-            var list = new List<object>() { 1, "a", "b", 0, 15 };
             Simpson simpson = new Simpson();
             Console.WriteLine(simpson.areaApprox(6, 0, 12));
-            Console.WriteLine(Simpson.GetIntegersFromList(list));
         }
     }
 
@@ -66,14 +64,5 @@ namespace Simpson_HW
             return Math.Round(area);
         }
 
-        public static IEnumerable<int> GetIntegersFromList(List<object> listOfItems)
-        {
-            List<int> newListOfItems = new List<int>();
-            foreach (int i in listOfItems)
-            {
-                newListOfItems.Add(i);
-            }
-            return newListOfItems;
-        }
     }
 }
