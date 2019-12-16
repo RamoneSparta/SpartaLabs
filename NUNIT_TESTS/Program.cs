@@ -204,7 +204,7 @@ namespace NUNIT_TESTS
         }
         #endregion
 
-
+        #region Fibonacci
         [TestCase(0, 0)]
         [TestCase(5, 3)]
         [TestCase(9, 21)]
@@ -220,7 +220,9 @@ namespace NUNIT_TESTS
             Assert.AreEqual(expectedNumber, fibSequenceResult);
 
         }
+        #endregion
 
+        #region Simpson
         [TestCase(6,0,6,72)]
         [TestCase(3, 0, 6, 145)]
         [TestCase(12, 0, 12, 576)]
@@ -230,6 +232,29 @@ namespace NUNIT_TESTS
             Simpson simpson = new Simpson();
 
             double expected = simpson.areaApprox(n,min,max);
+
+            Assert.AreEqual(expected, actual);
+        }
+        #endregion
+
+        [TestCase(2, 5, false)]
+        [TestCase(2, 10, true)]
+        public void TestBoolMethod(int x, int y, bool expected) 
+        {
+            Fibonacci fibonacci = new Fibonacci();
+
+            bool actual = fibonacci.ABoolMethod(x, y);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase(2, 5, "Atleast one is odd")]
+        [TestCase(2, 10, "Both are even")]
+        public void TestStringMethod(int x, int y, string expected)
+        {
+            Fibonacci fibonacci = new Fibonacci();
+
+            string actual = fibonacci.AStringMethod(x, y);
 
             Assert.AreEqual(expected, actual);
         }

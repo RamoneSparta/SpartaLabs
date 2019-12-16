@@ -17,10 +17,11 @@ namespace Lab6_Rabbits_DB_Create_100
         {
             "Thumper", "Oreo", "Bun Bun", "Cocoa", "Daisy", "Bunny", "Cinnamon", "Snowball", "Bugs", "Marshmallow", "Midnight", "Angel"
         };
+        public string s = "Fug Diz";
+        
 
         static void Main(string[] args)
         {
-
             using (var db = new RabbitDBContext())
             {
                 //AddRabbits();

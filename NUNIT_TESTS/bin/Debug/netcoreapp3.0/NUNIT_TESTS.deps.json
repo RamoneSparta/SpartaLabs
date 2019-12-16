@@ -1184,9 +1184,6 @@
         }
       },
       "Lab17_Northwind_Tests/1.0.0": {
-        "dependencies": {
-          "EntityFramework": "6.0.0.0"
-        },
         "runtime": {
           "Lab17_Northwind_Tests.exe": {}
         }
@@ -1211,7 +1208,7 @@
           "Simpson_HW.dll": {}
         }
       },
-      "EntityFramework.Reference/6.0.0.0": {
+      "EntityFramework/6.0.0.0": {
         "runtime": {
           "EntityFramework.dll": {
             "assemblyVersion": "6.0.0.0",
@@ -1941,7 +1938,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EntityFramework.Reference/6.0.0.0": {
+    "EntityFramework/6.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

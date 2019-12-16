@@ -42,5 +42,31 @@ namespace Lab28_Fibonacci
             return nextNum;
         }
 
+        public bool ABoolMethod(int x, int y)
+        {
+            if (x % 2 == 0 && y % 2 == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+        public string AStringMethod(int x, int y)
+        {
+            if (x % 2 == 0 && y % 2 == 0)
+            {
+                return "Both are even";
+            }
+            else
+            {
+                return "Atleast one is odd";
+            }
+
+        }
+
     }
 }

@@ -10,7 +10,9 @@ namespace Simpson_HW
         static void Main(string[] args)
         {
             Simpson simpson = new Simpson();
-            Console.WriteLine(simpson.areaApprox(6, 0, 12));
+            Console.WriteLine(simpson.areaApprox(6, 0, 6)); //132 is the answer
+            Console.WriteLine(simpson.areaApprox(6, 0, 12)); //2209 is the answer
+            Console.WriteLine(simpson.areaApprox(6, 0, 24)); //36097 is the answer
         }
     }
 
@@ -34,6 +36,7 @@ namespace Simpson_HW
             double dx = (max - min) / n;
             int[] x = new int[max];
             int[] y = new int[max];
+            int[] z = new int[max];
             int oddIndex = 0;
             int evenIndex = 0;
             int count = 0;
@@ -41,6 +44,7 @@ namespace Simpson_HW
             {
                 x[i] = (i + 1);
                 y[i] = ((i + 1) * (i + 1));
+                z[i] = ((i + 1) * (i + 1) * (i + 1));
             }
             foreach (int num in y)
             {
@@ -60,7 +64,9 @@ namespace Simpson_HW
                 }
             }
 
-            double area = (dx/3) * (y[min] + y[max-1] + (oddIndex*4) + (evenIndex*2));
+            // double area = (dx/3) * (y[min] + y[max-1] + (oddIndex*4) + (evenIndex*2));
+            // return Math.Round(area);
+            double area = (dx / 3) * (z[min] + z[max - 1] + (oddIndex * 4) + (evenIndex * 2));
             return Math.Round(area);
         }
 
