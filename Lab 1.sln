@@ -90,7 +90,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab29_Debugging", "Lab29_De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab30_Event_Logging", "Lab30_Event_Logging\Lab30_Event_Logging.csproj", "{EB173650-D18A-4C0F-A295-CA832BBAD517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab31_MVC_Core_Entity_Northwind", "Lab31_MVC_Core_Entity_Northwind\Lab31_MVC_Core_Entity_Northwind.csproj", "{074ED7C8-0FE2-4E7B-926F-E141E2B9D44A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab31_MVC_Core_Entity_Northwind", "Lab31_MVC_Core_Entity_Northwind\Lab31_MVC_Core_Entity_Northwind.csproj", "{074ED7C8-0FE2-4E7B-926F-E141E2B9D44A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{462C9C92-FE35-4EF8-81F1-3CA5F606FC08}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
