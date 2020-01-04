@@ -4,7 +4,6 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\bin\Debug\netco
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\bin\Debug\netcoreapp3.0\Lab19_Http.runtimeconfig.dev.json
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\bin\Debug\netcoreapp3.0\Lab19_Http.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\bin\Debug\netcoreapp3.0\Lab19_Http.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\obj\Debug\netcoreapp3.0\Lab19_Http.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\obj\Debug\netcoreapp3.0\Lab19_Http.AssemblyInfoInputs.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\obj\Debug\netcoreapp3.0\Lab19_Http.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab19_Http\obj\Debug\netcoreapp3.0\Lab19_Http.dll

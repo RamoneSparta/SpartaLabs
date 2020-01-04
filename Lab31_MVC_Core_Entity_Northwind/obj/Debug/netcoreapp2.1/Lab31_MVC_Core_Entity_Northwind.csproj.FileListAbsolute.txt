@@ -8,7 +8,6 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Nort
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\bin\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.pdb
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\bin\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.Views.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\bin\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.Views.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.RazorAssemblyInfo.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.RazorAssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.AssemblyInfoInputs.cache
@@ -51,3 +50,4 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Nort
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab31_MVC_Core_Entity_Northwind\obj\Debug\netcoreapp2.1\Lab31_MVC_Core_Entity_Northwind.csprojAssemblyReference.cache

@@ -1,6 +1,5 @@
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\bin\Debug\Lab04_Connect_To_Raw_SQL.exe.config
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\bin\Debug\Lab04_Connect_To_Raw_SQL.exe
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\bin\Debug\Lab04_Connect_To_Raw_SQL.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\obj\Debug\Lab04_Connect_To_Raw_SQL.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\obj\Debug\Lab04_Connect_To_Raw_SQL.exe
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab04_Connect_To_Raw_SQL\obj\Debug\Lab04_Connect_To_Raw_SQL.pdb

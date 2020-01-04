@@ -1,6 +1,5 @@
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\bin\Debug\Lab30_Event_Logging.exe.config
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\bin\Debug\Lab30_Event_Logging.exe
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\bin\Debug\Lab30_Event_Logging.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\obj\Debug\Lab30_Event_Logging.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\obj\Debug\Lab30_Event_Logging.exe
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab30_Event_Logging\obj\Debug\Lab30_Event_Logging.pdb

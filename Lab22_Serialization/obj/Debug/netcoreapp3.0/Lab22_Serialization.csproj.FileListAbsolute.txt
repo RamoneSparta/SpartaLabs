@@ -1,5 +1,4 @@
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\bin\Debug\netcoreapp3.0\Lab22_Serialization.exe
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.AssemblyInfoInputs.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\bin\Debug\netcoreapp3.0\Lab22_Serialization.deps.json
@@ -12,3 +11,4 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\De
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.pdb
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab22_Serialization\obj\Debug\netcoreapp3.0\Lab22_Serialization.csprojAssemblyReference.cache

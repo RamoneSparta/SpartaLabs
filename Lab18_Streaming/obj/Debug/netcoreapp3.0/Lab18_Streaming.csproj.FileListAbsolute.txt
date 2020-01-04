@@ -8,4 +8,3 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab18_Streaming\obj\Debug\
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab18_Streaming\obj\Debug\netcoreapp3.0\Lab18_Streaming.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab18_Streaming\obj\Debug\netcoreapp3.0\Lab18_Streaming.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab18_Streaming\obj\Debug\netcoreapp3.0\Lab18_Streaming.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab18_Streaming\obj\Debug\netcoreapp3.0\Lab18_Streaming.csprojAssemblyReference.cache

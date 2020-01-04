@@ -4,7 +4,6 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\bin\Debug\
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\bin\Debug\netcoreapp3.0\Lab11_Delegates.runtimeconfig.dev.json
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\bin\Debug\netcoreapp3.0\Lab11_Delegates.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\bin\Debug\netcoreapp3.0\Lab11_Delegates.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\obj\Debug\netcoreapp3.0\Lab11_Delegates.csprojAssemblyReference.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\obj\Debug\netcoreapp3.0\Lab11_Delegates.AssemblyInfoInputs.cache
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\obj\Debug\netcoreapp3.0\Lab11_Delegates.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab11_Delegates\obj\Debug\netcoreapp3.0\Lab11_Delegates.dll

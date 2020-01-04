@@ -8,4 +8,3 @@ C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab10_Simple_Events\obj\De
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab10_Simple_Events\obj\Debug\netcoreapp3.0\Lab10_Events.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab10_Simple_Events\obj\Debug\netcoreapp3.0\Lab10_Events.dll
 C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab10_Simple_Events\obj\Debug\netcoreapp3.0\Lab10_Events.pdb
-C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab10_Simple_Events\obj\Debug\netcoreapp3.0\Lab10_Events.csprojAssemblyReference.cache

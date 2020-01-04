@@ -1,0 +1,11 @@
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\Lab32_Gym_Database_Framework.exe.config
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\Lab32_Gym_Database_Framework.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\Lab32_Gym_Database_Framework.pdb
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\EntityFramework.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\EntityFramework.xml
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\obj\Debug\Lab32_Gym_Database_Framework.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\obj\Debug\Lab32_Gym_Database_Framework.csproj.CopyComplete
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\obj\Debug\Lab32_Gym_Database_Framework.exe
+C:\Users\Ramone Nelson\Engineering45\Week4\Day4\Lab 1\Lab32_Gym_Database_Framework\obj\Debug\Lab32_Gym_Database_Framework.pdb
